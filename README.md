@@ -6,7 +6,7 @@ Adds the singular joker: Chudjoker, bringing all listed probabilities to a near-
 
 Thanks to u/BenJammin007 for the idea!
 
-
+------------------------------------
 
 Version 1.0.0 -
 
